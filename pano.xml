@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node33" hassounds="0" appversion="7.1.10" apprev="21009">
+  <panorama id="node33">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-7.57541">
+      <start projection="4" fov="129.8" pan="2.31121" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-7.57541" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4132185,-51.9558327,3a,75y,350.11h,90t/data=!3m4!1e1!3m2!1sCIABIhDi92zBwfP5oGq610lFuynY!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41321846" longitude="-51.95583267" nodeid="node33"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node34}" pan="-119.27" title="Force One Academia" tilt="2.37" description="" target="-72.7/-2.7/100.0" id="Point01" skinid="ht_node" distance="6.33181"/>
+      <hotspot url="{node35}" pan="-274.09" title="Force One Academia" tilt="2.08" description="" target="105.0/0.0/85.5" id="Point02" skinid="ht_node" distance="7.39836"/>
+      <hotspot url="{node1}" pan="-3.36802" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="9.15154"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="35.2135">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="35.2135" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4132296,-51.9557718,3a,75y,35.21h,90t/data=!3m4!1e1!3m2!1sCIABIhBSz-Gii5Dd4A-bajv_2QwY!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41322957" longitude="-51.95577181" nodeid="node34"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node33}" pan="-257.1" title="Force One Academia" tilt="3.5" description="" target="42.4/0.0/121.5" id="Point01" skinid="ht_node" distance="6.33181"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="43.986">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="43.986" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.413232,-51.9559037,3a,75y,43.99h,90t/data=!3m4!1e1!3m2!1sCIABIhBN-TAWXW-wPywj6N5MiqGA!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41323199" longitude="-51.95590366" nodeid="node35"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node33}" pan="-42.84" title="Force One Academia" tilt="0.76" description="" target="-108.6/0.0/129.8" id="Point01" skinid="ht_node" distance="7.39836"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="0" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131364,-51.9558392,3a,75y,90t/data=!3m4!1e1!3m2!1sCIABIhAmey37D9CYb_ixL78xRUy6!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41313638" longitude="-51.95583925" nodeid="node1"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node33}" pan="-175.793" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="9.15154"/>
+      <hotspot url="{node2}" pan="4.85551" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.66479"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-6.41046">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-6.41046" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131035,-51.9558423,3a,75y,353.59h,90t/data=!3m4!1e1!3m2!1sCIABIhAD2JW6WQ4Qw44_utEapNx9!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41310354" longitude="-51.95584229" nodeid="node2"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" pan="-181.555" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.66479"/>
+      <hotspot url="{node3}" pan="-5.61271" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.81102"/>
+      <hotspot url="{node16}" pan="-95.7707" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.58487"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-4.95181">
+      <start projection="4" fov="89.2976" pan="-4.96453" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-4.95181" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130693,-51.9558428,3a,75y,0.01h,90t/data=!3m4!1e1!3m2!1sCIABIhCX89aFRS1XQB5WdgU8yGzJ!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41306927" longitude="-51.95584281" nodeid="node3"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" pan="-184.154" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.81102"/>
+      <hotspot url="{node4}" pan="110.104" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="4.0539"/>
+      <hotspot url="{node15}" pan="-93.836" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.48327"/>
+      <hotspot url="{node26}" pan="-1.38338" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point04" skinid="ht_node" distance="2.47555"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-99.1785">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-99.1785" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130847,-51.9558788,3a,75y,260.82h,90t/data=!3m4!1e1!3m2!1sCIABIhAVP9tWVtzMAE1tSi5jDs_s!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41308471" longitude="-51.95587880" nodeid="node4"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" pan="-164.122" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="4.0539"/>
+      <hotspot url="{node5}" pan="-8.13871" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.0025"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-90.8502">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-90.8502" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130852,-51.9559082,3a,75y,269.15h,90t/data=!3m4!1e1!3m2!1sCIABIhBJ0d2o_1Rhqhh6ViLpsidw!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41308520" longitude="-51.95590822" nodeid="node5"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node4}" pan="-179.81" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.0025"/>
+      <hotspot url="{node6}" pan="-267.66" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="5.59176"/>
+      <hotspot url="{node7}" pan="-88.1229" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.8172"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-179.259">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-179.259" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131354,-51.9559052,3a,75y,180.74h,90t/data=!3m4!1e1!3m2!1sCIABIhATOtFlzL_5CD7DantSRdjo!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41313541" longitude="-51.95590517" nodeid="node6"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node5}" pan="-176.068" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="5.59176"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="0" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130509,-51.95591,3a,75y,90t/data=!3m4!1e1!3m2!1sCIABIhDNlsDjM69zKmVlMVcasntL!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41305091" longitude="-51.95591000" nodeid="node7"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node5}" pan="-177.273" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.8172"/>
+      <hotspot url="{node8}" pan="4.56846" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="2.90809"/>
+      <hotspot url="{node28}" pan="-86.9401" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="2.27056"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="0" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130248,-51.9559123,3a,75y,90t/data=!3m4!1e1!3m2!1sCIABIhBYdodvpQPuBwk9Uf0YhsXH!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41302484" longitude="-51.95591227" nodeid="node8"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" pan="-175.432" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="2.90809"/>
+      <hotspot url="{node9}" pan="-89.3112" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="6.75245"/>
+      <hotspot url="{node29}" pan="77.1322" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.19552"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="87.8921">
+      <start projection="4" fov="97.5159" pan="90.5518" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="87.8921" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130241,-51.9558461,3a,75y,357.34h,90t/data=!3m4!1e1!3m2!1sCIABIhB_Xs1uVqCM6CLC89XXhv9M!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41302411" longitude="-51.95584610" nodeid="node9"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node8}" pan="178.581" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="6.75245"/>
+      <hotspot url="{node10}" pan="-6.30805" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.29452"/>
+      <hotspot url="{node26}" pan="-88.035" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="2.55727"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3220" levelingpitch="0" width="3220" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3220" height="3220"/>
+      <level preload="0" predecode="0" width="1610" height="1610"/>
+      <level preload="0" predecode="0" width="805" height="805"/>
+      <level preload="1" predecode="1" width="402" height="402"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.3036">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="91.3036" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130263,-51.9558139,3a,75y,91.3h,90t/data=!3m4!1e1!3m2!1sCIABIhDWJHPNP43-ZOElnUCWYBfR!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41302628" longitude="-51.95581390" nodeid="node10"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node9}" pan="177.103" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.29452"/>
+      <hotspot url="{node11}" pan="-2.15019" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="8.91507"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="89.056">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="89.056" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130311,-51.9557267,3a,75y,89.06h,90t/data=!3m4!1e1!3m2!1sCIABIhB3WbYVIIm4XX_8FTMmBGTh!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41303111" longitude="-51.95572669" nodeid="node11"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node10}" pan="175.602" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="8.91507"/>
+      <hotspot url="{node12}" pan="-4.65116" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.31915"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="78.2256">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="78.2256" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.413033,-51.9556942,3a,75y,78.23h,90t/data=!3m4!1e1!3m2!1sCIABIhAGoZAZwYme0XUn9P6EQmGF!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41303304" longitude="-51.95569423" nodeid="node12"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node11}" pan="164.518" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.31915"/>
+      <hotspot url="{node13}" pan="-97.7897" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.71511"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-176.316">
+      <start projection="4" fov="97.5159" pan="-173.767" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-176.316" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130664,-51.9556917,3a,75y,357.45h,90t/data=!3m4!1e1!3m2!1sCIABIhAzkTVHC1mSxjvxDd3q8gYS!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41306637" longitude="-51.95569170" nodeid="node13"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node12}" pan="-172.331" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.71511"/>
+      <hotspot url="{node14}" pan="-86.122" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.94181"/>
+      <hotspot url="{node18}" pan="-354.11" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="4.05606"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-92.9079">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-92.9079" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130665,-51.9557303,3a,75y,267.09h,90t/data=!3m4!1e1!3m2!1sCIABIhCFakKDfVAKisFxa36bDbvw!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41306649" longitude="-51.95573033" nodeid="node14"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node13}" pan="-182.714" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.94181"/>
+      <hotspot url="{node15}" pan="-1.17915" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="7.99844"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-89.3563">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-89.3563" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130687,-51.9558087,3a,75y,270.64h,90t/data=!3m4!1e1!3m2!1sCIABIhBzSJGo4zfu9hgM4mfAkONS!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41306866" longitude="-51.95580868" nodeid="node15"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node14}" pan="-177.628" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="7.99844"/>
+      <hotspot url="{node3}" pan="1.75948" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.48327"/>
+      <hotspot url="{node16}" pan="-267.042" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.84158"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-175.897">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-175.897" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131032,-51.9558072,3a,75y,184.1h,90t/data=!3m4!1e1!3m2!1sCIABIhBND3urDJbq4Ntpd9KbIBKS!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41310318" longitude="-51.95580716" nodeid="node16"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node15}" pan="-173.583" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.84158"/>
+      <hotspot url="{node2}" pan="-85.2572" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.58487"/>
+      <hotspot url="{node17}" pan="-264.974" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="4.96793"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.321">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="91.321" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131025,-51.9557585,3a,75y,91.32h,90t/data=!3m4!1e1!3m2!1sCIABIhDP3L2xRceBEsXDer4L1CPq!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41310246" longitude="-51.95575848" nodeid="node17"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node16}" pan="182.244" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="4.96793"/>
+      <hotspot url="{node18}" pan="0.991944" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="6.97044"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3216" levelingpitch="0" width="3216" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3216" height="3216"/>
+      <level preload="0" predecode="0" width="1608" height="1608"/>
+      <level preload="0" predecode="0" width="804" height="804"/>
+      <level preload="1" predecode="1" width="402" height="402"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.7725">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="91.7725" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131028,-51.9556902,3a,75y,91.77h,90t/data=!3m4!1e1!3m2!1sCIABIhDDMt-VggLkbtffNmJDMkfl!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41310282" longitude="-51.95569017" nodeid="node18"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node17}" pan="181.443" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="6.97044"/>
+      <hotspot url="{node13}" pan="93.9784" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="4.05606"/>
+      <hotspot url="{node19}" pan="271.772" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.67833"/>
+      <hotspot url="{node25}" pan="1.24948" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point04" skinid="ht_node" distance="2.92356"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-169.858">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-169.858" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131359,-51.9556902,3a,75y,190.14h,90t/data=!3m4!1e1!3m2!1sCIABIhCpnbNHnNoKk3yYloLSgdFI!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41313590" longitude="-51.95569017" nodeid="node19"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node18}" pan="-169.858" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.67833"/>
+      <hotspot url="{node20}" pan="-80.814" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="4.8649"/>
+      <hotspot url="{node23}" pan="-12.7096" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="9.22005"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-84.3731">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-84.3731" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131352,-51.9557378,3a,75y,275.63h,90t/data=!3m4!1e1!3m2!1sCIABIhBB8pyUgEi776VLInY54Jtz!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41313517" longitude="-51.95573784" nodeid="node20"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node19}" pan="-175.329" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="4.8649"/>
+      <hotspot url="{node21}" pan="5.40639" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="6.93364"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-95.0182">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-95.0182" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131349,-51.9558058,3a,75y,264.98h,90t/data=!3m4!1e1!3m2!1sCIABIhAeUVDoVOPaXtOeAkqJBcIp!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41313493" longitude="-51.95580579" nodeid="node21"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node20}" pan="-185.239" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="6.93364"/>
+      <hotspot url="{node22}" pan="-0.967002" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="2.2822"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-89.7544">
+      <start projection="4" fov="97.5159" pan="-88.0726" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-89.7544" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131364,-51.9558281,3a,75y,358.32h,90t/data=!3m4!1e1!3m2!1sCIABIhDrzsabf67c8xRVRQt24WjH!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41313638" longitude="-51.95582810" nodeid="node22"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node21}" pan="-175.703" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="2.2822"/>
+      <hotspot url="{node23}" pan="-218.574" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="13.4686"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.0321">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="91.0321" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4132123,-51.9557253,3a,75y,91.03h,90t/data=!3m4!1e1!3m2!1sCIABIhDw_4zFw1cSbiPb5T5IfqBV!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41321231" longitude="-51.95572526" nodeid="node23"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node22}" pan="142.213" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="13.4686"/>
+      <hotspot url="{node24}" pan="-85.634" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="6.38673"/>
+      <hotspot url="{node19}" pan="68.1805" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="9.22005"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-182.655">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-182.655" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4132697,-51.9557216,3a,75y,177.35h,90t/data=!3m4!1e1!3m2!1sCIABIhCbrZ84N3YofC5aPSQYpXzi!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41326965" longitude="-51.95572162" nodeid="node24"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node23}" pan="-179.321" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="6.38673"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-85.1353">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-85.1353" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4131031,-51.9556615,3a,75y,274.86h,90t/data=!3m4!1e1!3m2!1sCIABIhAqlHbaR89kD8Pp549uXQYd!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41310306" longitude="-51.95566152" nodeid="node25"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node18}" pan="4.34169" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="2.92356"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-97.1346">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-97.1346" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.413047,-51.9558443,3a,75y,262.87h,90t/data=!3m4!1e1!3m2!1sCIABIhDUDUzH-d6zsvXxHBGU2vuT!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41304705" longitude="-51.95584432" nodeid="node26"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node3}" pan="-273.566" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="2.47555"/>
+      <hotspot url="{node9}" pan="-93.0617" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="2.55727"/>
+      <hotspot url="{node27}" pan="-4.09177" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="2.51372"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-86.7603">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-86.7603" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130482,-51.9558689,3a,75y,273.24h,90t/data=!3m4!1e1!3m2!1sCIABIhBLvnrm7hbYxPd4V7Tz4EGl!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41304825" longitude="-51.95586892" nodeid="node27"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node26}" pan="-173.717" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="2.51372"/>
+      <hotspot url="{node28}" pan="8.42304" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="1.93237"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-101.057">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-101.057" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130498,-51.9558878,3a,75y,258.94h,90t/data=!3m4!1e1!3m2!1sCIABIhAe_PA6glw21jFpijLQNEsA!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41304982" longitude="-51.95588778" nodeid="node28"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node27}" pan="-185.874" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="1.93237"/>
+      <hotspot url="{node7}" pan="-7.99709" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="2.27056"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-83.0809">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-83.0809" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130184,-51.9559428,3a,75y,276.92h,90t/data=!3m4!1e1!3m2!1sCIABIhAhOofbl-vigH9HCS4x6JP2!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41301844" longitude="-51.95594280" nodeid="node29"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node8}" pan="-185.949" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.19552"/>
+      <hotspot url="{node30}" pan="8.39239" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.15713"/>
+      <hotspot url="{node36}" pan="-252.036" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point03" skinid="ht_node" distance="3.29684"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3249" levelingpitch="0" width="3249" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3249" height="3249"/>
+      <level preload="0" predecode="0" width="1624" height="1624"/>
+      <level preload="0" predecode="0" width="812" height="812"/>
+      <level preload="1" predecode="1" width="406" height="406"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-90.2556">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-90.2556" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130192,-51.9559737,3a,75y,269.74h,90t/data=!3m4!1e1!3m2!1sCIABIhD_lQMiEx1YsVhYR7f2aX38!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41301917" longitude="-51.95597373" nodeid="node30"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node29}" pan="-178.782" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.15713"/>
+      <hotspot url="{node31}" pan="87.7964" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point02" skinid="ht_node" distance="3.06185"/>
+      <hotspot url="{node32}" pan="-359.2" title="Force One Academia" tilt="0.54" description="" target="" id="Point03" skinid="ht_node" distance="2.52578"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-88.7869">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-88.7869" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130467,-51.9559748,3a,75y,271.21h,90t/data=!3m4!1e1!3m2!1sCIABIhA52t36_xaQIjVwZqEsJvEX!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41304669" longitude="-51.95597475" nodeid="node31"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node30}" pan="-90.7349" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.06185"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3000" levelingpitch="0" width="3000" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-93.1542">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-93.1542" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130195,-51.9559985,3a,75y,266.85h,90t/data=!3m4!1e1!3m2!1sCIABIhBkZg-R2WV5fNV-JLNy49ZZ!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41301952" longitude="-51.95599848" nodeid="node32"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node30}" pan="-182.271" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="2.52578"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingroll="0" height="3235" levelingpitch="0" width="3235" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" predecode="0" width="3235" height="3235"/>
+      <level preload="0" predecode="0" width="1617" height="1617"/>
+      <level preload="0" predecode="0" width="808" height="808"/>
+      <level preload="1" predecode="1" width="404" height="404"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-177.203">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata info="" copyright="Direitos Autorais – MG Tour 360 Graus&#xa;Todas as imagens e tours virtuais em 360° aqui publicados são criações originais, protegidas pela Lei nº 9.610/98 – Lei de Direitos Autorais, bem como por tratados internacionais ratificados pelo Brasil. É expressamente proibida a reprodução, cópia, distribuição, exibição pública, edição ou utilização parcial ou integral destas imagens sem autorização prévia e por escrito da MG Tour 360 Graus, representada por Marcelo Carvalho Ribeiro, empresa sediada em Maringá – Paraná.&#xa;&#xa;O uso das imagens para quaisquer fins — comerciais, institucionais, promocionais ou editoriais — deverá ser solicitado diretamente à MG Tour 360 Graus, por meio do e-mail: ribeiro@mgtour360.com.br.&#xa;&#xa;O não cumprimento destas condições poderá caracterizar violação de direitos autorais, sujeitando o infrator às sanções civis e penais previstas na legislação vigente.&#xa;&#xa;© MG Tour 360 Graus – Todos os direitos reservados.&#xa;&#xa;" comment="" heading="-177.203" title="Force One Academia" datetime="" author="MG TOUR 360 GTRAUS " source="" streetviewlink="https://www.google.com/maps/@-23.4130475,-51.9559366,3a,75y,182.8h,90t/data=!3m4!1e1!3m2!1sCIABIhCTahzAC7xMig5Bbwhlz5zX!2e10" description="Tour 360 graus " tags="3-Panoramicas" customnodeid="" latitude="-23.41304754" longitude="-51.95593661" nodeid="node36"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label border="1" borderradius="1" borderalpha="1" height="20" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" width="180" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node29}" pan="-166.158" title="Force One Academia" tilt="0" description="" target="$fwd" id="Point01" skinid="ht_node" distance="3.29684"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" zoomafteroutfov="40" softedge="0" type="crossdissolve" zoomin="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomspeed="2"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" speedwheel="1" zoomcentercursor="1" lockedwheel="0" hideabout="0" contextvr="1" lockedkeyboard="0" invertwheel="0" rubberband="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" tags="" copyright="" comment="" title="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
